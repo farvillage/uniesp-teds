@@ -1,7 +1,7 @@
 ###TED04:
 ##R1:
 
-VN = str("Insira um valor númerico (positivo ou negativo): ")
+VN = str(input("Insira um valor númerico (positivo ou negativo): "))
 print(VN)
 
 ##R2:
